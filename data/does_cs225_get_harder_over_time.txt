@@ -1,0 +1,24 @@
+Does CS 225 get harder as time progresses toward the end of the semester?
+
+[Post] CompE wondering whether I should take Phys 214 in the same semester 
+(since it's a first half 2 credit hr course) or not.
+
+[Comment] lcrean (CE '22): Absolutely. The first couple of MPs really aren't 
+that hard; you're mostly filling out skeleton code while towards the end 
+you're writing your own classes/functions and what not. Also, the data 
+structures you're working on get progressively more complicated as the 
+class goes on.
+
+[Comment] lcrean (CE '22): I took it with ECE 210 and ECE 408, with a random 
+easy gen-ed. I didn't think it was too bad, but ECE 385 I think is a lot 
+more work.
+
+[Comment] lcrean (CE '22): I think the format changed, but when I took it 
+(Fall 2019), it was like 1-2 hours of work until the final project started, 
+which was around 5 hours a week.
+
+[Comment] lcrean (CE '22): The MPs are relatively straightforward, and the 
+prof gave a lot of the code on the lecture slides, hence 1-2 hours a week. 
+The final project starts pretty early on, but the first couple of checkpoints 
+are just set-up/copy code from the book. That being said, I heard the final 
+project is a lot different now, so this might not be accurate anymore.

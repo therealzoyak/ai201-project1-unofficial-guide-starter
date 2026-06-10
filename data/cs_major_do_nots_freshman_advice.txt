@@ -1,0 +1,52 @@
+CS Major Do Nots That I Wish I Knew as a Freshman
+
+[Post] I just graduated from UIUC CS this May and finally got settled into my 
+new grad job. Here's a list of stuff you should avoid in your time studying CS 
+here that I wish I knew as a freshman:
+
+1. It's important to gain specialized domain knowledge through your electives, 
+but that doesn't mean you need to explore every possible area. I used to sample 
+classes across all domains (Databases, Systems, AI/ML, Full Stack) thinking it 
+would give me a broad foundation. While it did expose me to a lot, I ended up 
+spreading myself too thin and didn't develop real expertise in any area. My 
+perspective shifted during my last internship where I worked on a tough networking 
+project. If you liked something, just dive deeper into it. Trust your gut.
+
+2. Don't cheat on your coding assignments. I have been part of course staff for 
+core CS classes that see upto 3 digit violations in any given semester. It's not 
+a good feeling. It puts a shadow over any other efforts you may have made. 
+Controlling your AI usage will also help you learn more while not getting caught.
+
+3. Learn how to explain concepts, not just code. You can get exposed to this 
+outside of class in many ways — become a CA for a class you really liked, join 
+a consulting club doing tech stuff, or take on a research role. In an age where 
+AI will squeeze the headcount for entry level engineering roles, this will only 
+get more important.
+
+4. You only get a limited number of chances. The job market is tough and will 
+probably stay like this. You only get so many shots at your dream job. Make sure 
+you prep in advance. A lot of people start to prep for interviews once they get 
+it, but for many top companies with less defined question banks this doesn't work. 
+Just because it worked at Meta or Amazon and you were able to memorize their bank 
+of leetcode questions doesn't mean that prep works everywhere.
+
+5. Avoid unhealthy comparisons. UIUC CS has a large student body and naturally 
+some students will end up in more prestigious roles than others. It's easy to fall 
+into the trap of comparison, but it's important to stay optimistic and trust that 
+your own opportunities will come in time. I've seen students graduate in three 
+years and land roles at Google or Citadel, and others that are equally capable 
+take five years to complete a 4+1 BS-MCS program and go to work at Deloitte or 
+KPMG as tech consultants. Don't be too hard on yourself. Polish your resume, 
+build meaningful projects, and keep preparing.
+
+6. Be nice. You are only here for a few years, but this industry is smaller than 
+it looks. Being good to your MP partner or discussion groupmate is honestly 
+something nobody should have to tell you, but we live in an era where everything 
+is turned into a race to the top. Being a pure CS major doesn't make you superior 
+to someone pursuing a CS+X program.
+
+[Comment] Hoggyawesome365: Even more than all of these pieces of advice, PLEASE 
+do the proficiency test for CS 124. You REALLY want to if you have any coding 
+experience coming into college at all. You will thank me later.
+
+[Comment] delphi_ote: Point 5 is VITAL.

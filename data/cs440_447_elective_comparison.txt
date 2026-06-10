@@ -1,0 +1,26 @@
+Out of all CS courses between 440-447, which ones should I take to prepare 
+for industry or which ones are the most useful?
+
+[Post] Looking for advice on which CS courses between 440-447 are most useful 
+for industry or general preparation.
+
+[Comment] SkittlesDB (Math&CS): 444 and 446. Both classes use PyTorch. 444 has 
+more coding than 446. I don't think it's necessary to take both 444 and 446. 
+446 was pretty good. 440 is super broad since it gives a survey of the whole 
+field of AI, but a lot of the topics covered are more historical/not as 
+applicable for modern ML research. Most importantly, it doesn't give as solid 
+a foundation in deep learning as the other two. It might be interesting to 
+take though.
+
+[Comment] Belaruskyy (Alumni): Depends what you are interested in pursuing. 
+A class like 447 or 442 could be more applicable if you want to pursue academia. 
+444 and 446 are better suited if you want to go into industry jobs. If you don't 
+know yet or have no specific interest, take 440.
+
+[Comment] SkittlesDB (Math&CS): 446 has a lot of deep learning but also a lot 
+of classical ML. I don't think any classes at UIUC teach TensorFlow specifically.
+
+[Comment] SkittlesDB (Math&CS): 440 is super broad and gives a survey of the 
+whole field of AI, but topics are more historical and not as applicable for 
+modern ML research. It doesn't give as solid a foundation in deep learning as 
+444 or 446.

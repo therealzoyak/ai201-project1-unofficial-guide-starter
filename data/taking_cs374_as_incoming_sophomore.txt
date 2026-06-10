@@ -1,0 +1,71 @@
+Taking CS 374 as an Incoming Sophomore?
+
+[Post] I always assumed the progression would be 225, 233, 341, and then 374. 
+A few of my friends said that people they know take 225 in the fall and then 
+374 over in spring. I am currently taking 225 over the summer so I could 
+technically take 374 in the fall. Is it even beneficial to take 374 in the 
+fall (for resume/interview prep)? And would it be better to take with a bunch 
+of people I know well?
+
+[Comment] margaretmfleck (CS faculty): What is your math and CS theory 
+background like? CS 374 leans heavily on mathematical maturity. If you took 
+CS 173 or a similar proof-based discrete math course from a reasonable strong 
+CS program and it went smoothly, you will likely do fine. If you struggled with 
+proofs or have a weak-ish transfer equivalent of CS 173, then it's a bad idea 
+to move quickly forward to CS 374. If your math/theory background is 
+questionable, it's probably a good idea to first settle into the coursework 
+here and fill in courses like linear algebra. Doing well in CS 225 is a great 
+predictor for doing well in CS 233, but not so good at predicting success in 
+CS 374. CS 225 is mixed programming/theory, thus doesn't push as hard on the 
+math/theory skills.
+
+[Comment] CubicStorm: YES take it with people you know well! In the A section 
+the homework is done in groups so it would be extremely helpful. You can 
+effectively prep for interviews without 374 knowledge — you only need some 
+basic DP which you can just teach yourself.
+
+[Comment] DescriptionUsed8157 (CS + music): You should take 233/340 first. 
+You could do 374 first, but you realize that the later you get to 340/341, 
+the later you get to do all of the fun 400 level classes. Almost all the good 
+ones have 374 as a prereq.
+
+[Comment] Chickadee3141592: I took 374 my first sophomore semester. It was 
+somewhat challenging but not overly difficult, although I have a mathy-ish 
+background. I know many that found 374 to be a huge time sink and difficult. 
+There's not a whole lot of overlap between 225 and 374 content. It'll 
+definitely teach you stuff useful for LeetCode questions, although for most 
+interviews you can probably just teach yourself the necessary material. Having 
+a good group will make the class much more enjoyable.
+
+[Comment] YoBacon4Bacon (BS-MCS): I took this class in my fall sophomore 
+semester and did reasonably well. I had a strong homework group, which was 
+probably the biggest factor in my success. If you can take it with friends, 
+do that. The more people you know taking it, the more ideas you can bounce 
+off each other. Jeff Erickson is teaching 374 this fall — there is a 4 
+professor cycle, so the next time he'd be teaching it is in two years. 
+Regardless of any professor, you'll learn plenty, but if you'd prefer it 
+with Jeff, now is the time.
+
+[Comment] lukewarmdaisies: 374 is probably the hardest CS core class I took. 
+It can be a lot of work especially if your math background isn't rock solid. 
+Also look at the electives you wanna take and see which ones 374 is a 
+prerequisite for compared to 341.
+
+[Comment] jeffgerickson (CS 374 instructor): If you have a strong grasp of 
+the material in CS 225 and especially CS 173, you should be okay to jump 
+right into CS 374. But if the Recursion Fairy isn't your friend, you might 
+be better off spending a semester building your discrete math chops. Do not 
+under any circumstances take CS 374 and CS 341 in the same semester. Yes, 
+CS 374 can help with interview prep. Absolutely take CS 374 with other people 
+you know well.
+
+[Comment] JJ1553 (CompE '26): I took 374 B instead of A. I don't think you 
+need much knowledge past 225 to take 374. 374 is just weird, feels kinda like 
+learning Latin — you really aren't going to get anywhere unless YOU understand 
+how to get to a solution yourself. It will help for interviews if you are 
+interviewing for a position working with algorithms, otherwise it won't.
+
+[Comment] Schmolik64 (Alumnus): Since CS 374 is similar to CS 225 and 173 it 
+would make sense to take it soon after CS 173/225 while the material is still 
+fresh in your mind rather than wait and forget all of CS 173/225 by the time 
+you take 374.

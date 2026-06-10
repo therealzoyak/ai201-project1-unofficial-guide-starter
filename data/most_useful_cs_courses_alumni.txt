@@ -1,0 +1,50 @@
+To CS Alumni: What Are Some of the Most Useful CS Classes at UIUC?
+
+[Post] What CS classes, especially upper level ones, that you took are the 
+most useful in your job?
+
+[Comment] aw10365 (CompE '23): Definitely CS 425 and CS 411. Also CS 440 
+but depends on the job.
+
+[Comment] Ruffgenius (Alumnus): Unironically, ECE 391. I'm not going to flex 
+on the 341 but that class made me love systems programming from a kernel 
+building perspective.
+
+[Comment] Yaan_: Even if you don't go into systems programming, I think it's 
+really good to get comfortable and get some experience with programming at a 
+very low level.
+
+[Comment] sk_dastaan: CS 425 hands down. It's definitely on the harder side, 
+especially if you take it for 4 credits. Homeworks and MPs really take 
+understanding and time, but really teach you a lot.
+
+[Comment] AMonsterr (CS '22): CS 411 Database Systems may be one of the most 
+applicable and useful CS classes available. I highly recommend it and professor 
+Abdu is great. If you intend to pursue software engineering or anything data 
+related it is a must take.
+
+[Comment] TaigasPantsu (Alumnus): For the life of me I don't know why database 
+classes weren't required. Illinois CS is too theoretical and not practical 
+enough. I've never used any 300 or 400 level class in my career. The most 
+useful class was CS125, Introduction to Programming. I will point out that I 
+never took CS411 and there have been times in my career I wish I had.
+
+[Comment] Sonicninja (Certified Piazza Chaotic Good): CS 438 taught me so 
+much about so many different things about technical communications networking. 
+Difficult, definitely not a throwaway, but worth it.
+
+[Comment] jo_ker528: CS 425 Distributed Systems covers the most applicable 
+parts of computer networking and you will almost certainly find its way in 
+your job as a software developer. Also very useful if you ever come across a 
+system design interview. CS 411 Database Systems — every software developer 
+will need to work with databases at one point and this class fully prepares 
+you, introducing technologies like SQL, MongoDB, Neo4j. CS 374 Algorithms — 
+although this class is hard, it changes the way you think as a computer 
+scientist. I have used it in my projects and internships to more efficiently 
+design code, and it is also very useful for technical coding interviews. 
+Honorable mentions: CS 341/340 and CS 437.
+
+[Comment] Joe_Early_MD: CS 411 was great but crams in too many databases. 
+Could spend a semester on each but definitely came out of it better on db. 
+Professor Chang may use a lot of beer and bar references in his examples but 
+otherwise great guy.

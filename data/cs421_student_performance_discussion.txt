@@ -1,0 +1,41 @@
+CS 421: Students are performing better currently than in the past — 
+struggling with the course
+
+[Post] In the past, peers were offered a retake opportunity capped at 80% for 
+one of the midterms. A student asked if this would be offered this semester but 
+professor Gunter said no. How are students doing so well? Is this just a skill 
+issue? Does anyone have suggestions to do well on the final?
+
+I find some of the MPs extremely difficult relative to the level at which content 
+is discussed in lecture. Implementing components of the MPs in an exam time 
+constraint seems to be via brute force memorization. The 3 exams are worth 45% 
+total with a 35% final. I am in fear for my grade and my ability to pass. I find 
+the content interesting and I see the value in functional programming.
+
+[Professor Response] Elsa Gunter: No, there is no retake this semester. It was 
+not in the policy and not expected. In recent past semesters after the third 
+midterm, 25% or more of the class were expected to fail based on calculations. 
+While some are on track to fail this semester, the percentage is way lower than 
+in the last four semesters. With a bit of focused effort and attending office 
+hours, all but about one percent should be able to pass.
+
+[Comment] thethinginthenight (Grad): With the MPs, the big hurdle is learning 
+to read the rules (CPS transformation, type judgements, unification, semantics). 
+The slides contained this information but were hard to interpret on their own. 
+Still, all of the MPs gave you all of the test cases and many provided ways to 
+interactively test your code. The expectation for exams was not that you memorized 
+code from the MPs — the important skill is being able to translate a mathematical 
+representation of some aspect of a programming language into code. The class feels 
+different from a lot of other CS courses because much of the work is just mechanical 
+application of rules. To prepare for the final, review what the rules are and how 
+you can represent them in code. For previous exams it helped to redo some of the MP 
+problems from scratch.
+
+[Comment] margaretmfleck (CS faculty): "Expect" in this context refers to a 
+prediction based on performance so far, not what the instructor wants to happen. 
+It's quite late in the term, so every instructor teaching a course of significant 
+size has students they expect to fail. There's always someone who has turned in 
+almost none of the work but mysteriously decided to stay in the course rather than 
+dropping. When a course is running smoothly, a significant percentage of actual 
+failures involve outside factors, sometimes too big to address within the context 
+of a single term.

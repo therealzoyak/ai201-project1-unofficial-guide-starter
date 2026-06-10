@@ -1,0 +1,82 @@
+Reflections from a Senior in CS
+
+[Post] Thought I'd make some closing thoughts on the CS experience at UIUC 
+for future/current students.
+
+1. Figure out what the goal of college is for you — to get a job, to get into 
+academia, to strengthen your knowledge in CS, to go out to bars and make 
+friends, or a combination. This will save you lots of time when making 
+decisions. Should you work all night to bump that MP from 85 to a 95, or 
+would you rather go to parties with your friends? Would you sacrifice your 
+grades to make new friends and gain leadership experience in RSOs? If you 
+know your goal, it is relatively simple to make these decisions.
+
+2. You don't need to know exactly what you want to do within CS, but do not 
+let that be an excuse to do nothing. Don't know if you want to do machine 
+learning, cybersecurity, backend, ui/ux, frontend, product management, or 
+leadership? Doesn't matter. Choose something and dive deep into it. If you 
+like it, great! If not, move on to the next thing.
+
+3. Being kind gets you further than being smart. I'm not saying being 
+technically competent isn't important. But DO NOT BURN BRIDGES. BE KIND TO 
+EVERYONE. This is especially valuable for freshmen. People who are just kind 
+and get along with everyone tend to do better in life.
+
+4. If you want to go into further education, do research. Have connections 
+with some faculty/professors. You cannot get into most masters programs 
+without some academic letters of rec. I graduated with a very high GPA but 
+didn't apply to a single masters program because I had no connections in the 
+university.
+
+5. Almost everyone around you is cheating. It is pretty wild how UIUC is 
+ranked so highly with a huge proportion of students cheating in classes like 
+Data Structures and Systems Prog. If your goal is to just explore CS topics 
+and expand your knowledge, this wouldn't bother you. However, if your goal 
+is to land a high paying job or get into higher education, it will definitely 
+bother you that others are taking easy routes to potentially take your spot. 
+My best advice is to either ignore the issue or join them.
+
+6. Go out more. Make deep, real connections with people as well as some 
+not-so-deep friendships. Make mistakes, make dumb decisions. Messing up now 
+is way better than messing up in the real world.
+
+[Comment] versaceblues (Physics): Agree with everything except number 5. 
+Don't cheat. It doesn't matter if everyone else is doing it. You will be 
+much more likely to land a high paying job if you devote time to working on 
+projects that you care about and building real skills.
+
+[Comment] geoffreychallen (I Teach CS 124): Just don't cheat. Your education 
+is expensive and valuable. So is everyone else's. If you're struggling, reach 
+out for help — we have so many resources here to support your success.
+
+[Comment] Focused_Meandering: Part of the reason why we're so highly ranked 
+is due to how high our research output is. If you're a current student and 
+are interested, you should check out research job boards and cold-email 
+professors conducting research in a field you are interested in. If you 
+didn't get an internship this summer, it can be a great way to learn new 
+skills, find new interests, and make it more likely you get an internship 
+next summer.
+
+[Comment] No-Boysenberry-4183 (reply): Start using LinkedIn asap. Write 
+projects, go to all the career fairs even if they are getting smaller and 
+smaller every year. And pray to be lucky. The market is tough.
+
+[Comment] ACM recommendation: ACM is really big at UIUC. You can join some 
+SIGs and vibe with some incredibly smart people, or run an event like 
+Reflections/Projections or HackIllinois. Disruption Lab (DLab) is an 
+academic unit in the college of business but mostly consists of CS students 
+— pretty cool because you get staffed on a project where you build something 
+with emerging tech. Hack4Impact builds software for NGOs. Women in CS is a 
+wholesome community. Other CS-adjacent orgs include Founders, Cube, OTCR, 
+and the Coffee Club.
+
+[Comment] jeffgerickson: Being inspired by other people's work is not 
+cheating as long as you are learning from it, understanding, and applying 
+it yourself — and citing it correctly.
+
+[Comment] lsr-Indii (Fighting Illini): The atmosphere around Academic 
+Integrity at UIUC compared to my undergrad at A&M is vastly different. A&M 
+had entire webpages and a freshman lecture or two devoted to the honor code. 
+ECE here barely mentions it in a slide in 110 or 120. At UIUC the entire 
+thing seems more of like a DADT arrangement. The pervasiveness of cheating 
+here doesn't dovetail with the reputation this school has.

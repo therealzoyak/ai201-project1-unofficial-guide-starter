@@ -1,0 +1,26 @@
+CS 341 - How to Prepare
+
+[Post] I'm going to take CS 341 next semester and I'm very scared. I've heard 
+such bad reviews about this course so I want to be better prepared before the 
+class begins. Does anyone have any recommendations on how I could prepare?
+
+[Comment] CubicStorm: This was one of my favorite courses and most of the 
+complaints about difficulty are a bit overhyped. The main challenge compared 
+to prev courses like 225 is that the MPs are more open where they state "your 
+program must do this..." but then don't really tell you how — that is for you 
+to figure out. The course textbook is at cs341.cs.illinois.edu/coursebook/index.html 
+and OSTEP is also a great reference.
+
+[Comment] CubicStorm: The first one is what 341 actually uses, it's quite short. 
+OSTEP is one of the best OS books and has more info than you actually need for 
+341 but is a great reference without giving too much away.
+
+[Comment] caterpillarcupcake: The number 1 thing you can do is start the 
+assignments as soon as they come out. The MPs are manageable if you start early 
+but super overwhelming if you wait until the last couple of days. Go to class 
+every time and take good notes. Also, debugging is one of, if not the, most 
+important skills you will need in this course. 341 was one of the hardest classes 
+I took but also one of my favorites. Good luck!
+
+[Comment] klothegg: In addition to the other comments, make sure you understand 
+the MP spec before you implement, and write very modular code.

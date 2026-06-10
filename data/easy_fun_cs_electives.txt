@@ -1,0 +1,25 @@
+Easy/Fun CS Electives?
+
+[Post] I'm planning on taking CS 418 and CS 461 this upcoming spring and am 
+looking to pair them with another CS elective. I've already taken CS 465. I 
+was hoping for VR but I'm not sure that it'll be offered. Does anybody have 
+personal or anecdotal experience with any other CS electives? And if anybody 
+has taken 418 (advice on which instructor to choose?) or 461, how'd you like 
+it and do you have any tips?
+
+[Comment] harsh183 (Stat and CS '22): 418 take Shaffer. He teaches really 
+well. Exams are a bit tricky but the MPs and lectures are excellent. The course 
+topic coverage is really good and he's a very kind professor. Check out the 
+498s for your specific interests.
+
+[Comment] serkit: CS 445 is fun, but you might not find it easy. It might 
+also have some overlap with CS 418.
+
+[Comment] lcrean (CE '22): I'm having a good time in CS 448 (AI) this 
+semester. Not sure who's teaching it next semester, but Fleck is a great 
+professor. Biweekly MPs and quizzes. I took CS 483 (Applied Parallel 
+Programming) a while back, and that was an interesting class as well. MPs 
+aren't too bad, but the exams (2 total) were pretty tricky.
+
+[Comment] uluc-bot: CS 412 Introduction to Data Mining — 3 OR 4 hours — 
+Offered in Spring 2021 — Recent Average GPA: 3.39.

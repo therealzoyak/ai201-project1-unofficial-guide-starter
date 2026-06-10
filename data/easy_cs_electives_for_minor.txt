@@ -1,0 +1,29 @@
+Easy CS Electives to Finish Minor
+
+[Post] I'm doing a CS minor and looking for recommendations for easier classes 
+to take for electives. The options are 357, 361, 374, and pretty much any 400 
+level course.
+
+[Comment] UIUC-CScrub: 361 and 374.
+
+[Comment] n3on_tv (CompE '23): If you're in a scientific major 
+(Physics/Astronomy/Atmo), CS 357 is very helpful and applicable. CS 440 (AI) 
+is a good survey of AI and not the hardest class.
+
+[Comment] n3on_tv (CompE '23): Yes, I would not recommend taking 357 without 
+linear algebra. These are the courses I would suggest: MATH 257 (Linear Algebra 
+with Computational Applications), CS 357 (Numerical Methods, great to take right 
+after MATH 257), CS 361 (Probability & Stats), CS 418/411/412 (easier tech 
+electives).
+
+[Comment] ulucecethrowaway999 (Grad): You definitely don't need linear algebra 
+for CS 440 itself. It's really a Python coding based intro for the complete 
+layman who isn't necessarily planning on doing research into AI. However, you 
+definitely need it for CS 446 or anything more advanced. In general, a strong 
+linear algebra background will be essential for any applied math related field 
+in ECE/CS.
+
+[Comment] nipirennipi2: Cyber Dystopia CS 464 is really interesting and easy 
+to satisfy the 400 level CS minor requirement. No coding involved but be prepared 
+to read tons of books about downsides of internet and technology and discuss them 
+in class.

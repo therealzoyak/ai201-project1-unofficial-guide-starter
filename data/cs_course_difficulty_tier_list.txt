@@ -1,0 +1,27 @@
+CS Course Difficulty Tier List
+
+[Post] Is there a tier list for CS courses based on difficulty?
+
+[Comment] sanjlviyer: List relative to year you take it:
+Easy: CS 124, CS 222.
+High workload but relatively easy: CS 225, CS 211.
+Moderate: CS 421, CS 233.
+Kinda Hard (depends on math ability for first 2): CS 361, CS 357, CS 128.
+Hard: CS 341, CS 173.
+Depends on professor heavily: CS 374.
+
+[Comment] sanjlviyer: CS 173 depends on the person. They definitely give you 
+a lot of resources but for freshmen it is an intensive class. There's a reason 
+it has the second lowest GPA for CS classes.
+
+[Comment] versaceblues (Physics): In retrospect CS 173 is easy. However for 
+freshmen in college, it is the first time they are being exposed to math in 
+this way — it requires you to reframe how you think about math, which can be 
+very difficult. CS 173 was definitely a challenging course, although I would 
+probably put it in the Moderate/Kinda-Hard tier. It is nowhere near the 
+workload/difficulty of 373/473.
+
+[Comment] craftycreeper23 (Alumnus): CS 374 sucks no matter the prof.
+
+[Comment] Forward_Walrus_8735: 374 with Kani is one of the easiest CS classes 
+possible in terms of grading.
