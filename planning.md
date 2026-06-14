@@ -61,6 +61,8 @@ is large enough to capture a full comment plus context, but small enough
 that each chunk stays focused on one person's take. Overlap of 50 tokens 
 prevents a key sentence from being cut off at a boundary mid-thought. So we are able to account for people with slightly longer and shorter thoughts.
 
+**Implementation note:** Final chunk count is 23 across 12 documents. Source documents are short Reddit threads with limited comments, so this count accurately reflects the available data rather than a chunking error.
+
 ---
 
 ## Retrieval Approach
