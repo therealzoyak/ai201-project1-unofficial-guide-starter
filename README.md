@@ -1,5 +1,5 @@
 # The Unofficial Guide — Project 1
-
+Demo video: https://www.loom.com/share/67dec7fa2c8f4bd69c7296d3e5704db0
 ---
 
 ## Domain
@@ -43,57 +43,51 @@ across years of posts with no way to search across them for a specific question.
 
 ## Chunking Strategy
 
-<!-- Describe your chunking approach with enough specificity that someone else could reproduce it.
-     Include:
-     - Chunk size (characters or tokens) and why that size fits your documents
-     - Overlap size and why (or why not) you used overlap
-     - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
-     - What your final chunk count was across all documents -->
+**Chunk size:** 1500 characters (roughly 300-375 tokens)
 
-**Chunk size:**
+**Overlap:** 200 characters (roughly 50 tokens)
 
-**Overlap:**
+**Why these choices fit your documents:** My documents are short Reddit 
+threads — the longest is under 5,000 characters. 1500 characters is enough 
+to grab one full comment plus some context without smashing multiple unrelated 
+comments together. Before chunking I manually cleaned each thread, stripping 
+out Reddit's sidebar, vote counts, "Archived post" notices, and avatar/flair 
+clutter, keeping just the post and comments labeled [Post]/[Comment]. The 
+200 char overlap helps avoid cutting a sentence in half at a chunk boundary.
 
-**Why these choices fit your documents:**
-
-**Final chunk count:**
+**Final chunk count:** 23 chunks across 12 documents. That's under the 
+50-chunk guideline, but it's accurate — each thread only had a few real 
+comments left after cleaning.
 
 ---
 
 ## Embedding Model
 
-<!-- Name the embedding model you used and explain your choice.
-     Then answer: if you were deploying this system for real users and cost wasn't a constraint,
-     what tradeoffs would you weigh in choosing a different model?
-     Consider: context length limits, multilingual support, accuracy on domain-specific text,
-     latency, and local vs. API-hosted. -->
+**Model used:** all-MiniLM-L6-v2 via sentence-transformers, with 
+normalize_embeddings=True and cosine similarity in ChromaDB.
 
-**Model used:**
-
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** If cost wasn't an issue I'd look at 
+something like OpenAI's text-embedding-3-large — it'd probably handle 
+UIUC-specific terms like "MPs" or course numbers better since all-MiniLM 
+is pretty general purpose. The tradeoff is cost and latency from an API 
+call vs. running locally for free. For this project all-MiniLM was the 
+right call, but for something with real traffic the accuracy bump might 
+be worth it.
 
 ---
 
 ## Grounded Generation
 
-<!-- Explain how your system enforces grounding — how does it prevent the LLM from answering
-     beyond the retrieved documents?
-     Describe both your system prompt (what instruction you gave the model) and any structural
-     choices (e.g., how you formatted the context, whether you filtered low-relevance chunks).
-     Do not just say "I told it to use the documents" — show the actual instruction or explain
-     the mechanism. -->
+**System prompt grounding instruction:** [paste your actual system prompt 
+from query.py here]
 
-**System prompt grounding instruction:**
-
-**How source attribution is surfaced in the response:**
+**How source attribution is surfaced in the response:** Sources are added 
+programmatically, not by the LLM. After retrieval, I pull the source filename 
+from each chunk's metadata, dedupe them, and return that list alongside the 
+answer. So the sources shown are always exactly what was retrieved, no risk 
+of the model making up a citation.
 
 ---
-
-## Evaluation Report
-
-<!-- Run your 5 test questions from planning.md through your system and record the results.
-     Be honest — a partially accurate or inaccurate result that you explain well is more
-     valuable than a suspiciously perfect result. -->
 
 ## Evaluation Report
 
