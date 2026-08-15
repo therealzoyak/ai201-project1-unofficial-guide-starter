@@ -1,8 +1,6 @@
 import re
 from pathlib import Path
 
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-
 DATA_DIR = Path(__file__).parent / "data"
 
 
@@ -34,15 +32,35 @@ def load_documents(data_dir: Path) -> list[tuple[str, str]]:
     return docs
 
 
-def chunk_texts(docs: list[tuple[str, str]]) -> list[str]:
-    splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1500,
-        chunk_overlap=200,
-    )
-    chunks: list[str] = []
-    for _name, text in docs:
-        chunks.extend(splitter.split_text(text))
+def chunk_texts(docs: list[tuple[str, str]]) -> list[dict]:
+    chunks: list[dict] = []
+    for name, text in docs:
+        for index, chunk in enumerate(split_text(text)):
+            chunks.append({"source": name, "chunk_index": index, "text": chunk})
     return chunks
+
+
+def split_text(text: str, chunk_size: int = 1500, overlap: int = 200) -> list[str]:
+    """Split text at nearby whitespace while retaining a small context overlap."""
+    if chunk_size <= 0 or overlap < 0 or overlap >= chunk_size:
+        raise ValueError("Use chunk_size > overlap >= 0")
+    if len(text) <= chunk_size:
+        return [text] if text else []
+
+    chunks = []
+    start = 0
+    while start < len(text):
+        proposed_end = min(start + chunk_size, len(text))
+        end = proposed_end
+        if proposed_end < len(text):
+            boundary = text.rfind(" ", start + chunk_size // 2, proposed_end)
+            if boundary > start:
+                end = boundary
+        chunks.append(text[start:end].strip())
+        if end >= len(text):
+            break
+        start = max(0, end - overlap)
+    return [chunk for chunk in chunks if chunk]
 
 
 def main():
@@ -63,8 +81,10 @@ def main():
 
     print("=== 5 Sample Chunks ===\n")
     for i, chunk in enumerate(chunks[:5], 1):
-        preview = chunk[:500] + ("..." if len(chunk) > 500 else "")
+        text = chunk["text"]
+        preview = text[:500] + ("..." if len(text) > 500 else "")
         print(f"--- Chunk {i} ---")
+        print(f"Source: {chunk['source']}")
         print(preview)
         print()
 
